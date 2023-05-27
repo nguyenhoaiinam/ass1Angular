@@ -1,0 +1,51 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Product B",
+      "price": 300,
+      "img": "anh"
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "price": 400,
+      "img": "anh"
+    },
+    {
+      "name": "Product 3",
+      "price": 1234,
+      "img": "anh",
+      "id": 4
+    },
+    {
+      "name": "Product 3",
+      "price": 1234,
+      "img": "anh",
+      "id": 5
+    },
+    {
+      "name": "aaaaa",
+      "price": "01111",
+      "id": 6
+    },
+    {
+      "name": "Products 44",
+      "price": 123,
+      "img": "anhanh",
+      "id": 7
+    },
+    {
+      "name": "products update",
+      "price": 124578,
+      "img": "anbbsa",
+      "id": 8
+    },
+    {
+      "name": "aaaaa",
+      "price": 111,
+      "img": "adasd",
+      "id": 9
+    }
+  ]
+}
