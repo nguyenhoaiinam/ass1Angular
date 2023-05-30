@@ -13,7 +13,7 @@
             <td>{{product.price}}</td>
             <td>{{product.img}}</td>
             <td>
-                <button>DELETE</button>
+                <button (click)="onHandleDelete(product.id)">DELETE</button>
                 <button>UPDATE</button>
             </td>
         </tr>
